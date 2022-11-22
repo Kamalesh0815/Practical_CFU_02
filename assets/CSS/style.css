@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&family=Island+Moments&family=Shadows+Into+Light&display=swap');
+
+
+.body{
+    
+    background-color: hsl(0, 0%, 100%);
+    font-size: 18px;
+    font-family: Barlow;
+    font-weight: 400;
+    margin: 20px 50px;
+    max-width:700px ;
+    font-weight: 400;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Barlow Condensed', sans-serif;
+
+
+}
+
+a{
+  text-decoration: none;
+  padding: 13px 20px;
+  background-color: #E8EFF2;
+  color: hsl(220, 50%, 17%);
+  text-align: center;
+  border-radius: 5px;
+  font-size: 10px;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight:700;
+
+
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+}
+
+.section-one{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.divbg{
+    position: relative;
+}
+
+.divinner{
+    position: absolute;
+    top: 0px;
+}
+
+.divinnerimage{
+    width: 255px;
+    height: 240px;
+    border-radius: 20px;
+}
+
+.section_one_button{
+    display: flex;
+    
+}
+
+input{
+    margin-right: 20px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+   margin: 30px 0px;
+
+}
+
+.icon-background{
+    background-color: hsl(22, 89%, 52%);
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.icon{
+   
+    width: 20px;
+    height: 20px;
+}
+
+
+.sectwo-imgone{
+    width: 120px;
+    height: 240px;
+    border-radius: 20px;
+    margin-right: 20px;
+
+}
+
+.sectwo-imgtwo{
+    width: 255px;
+    height: 240px;
+    border-radius: 20px;
+    margin-left: 0px;
+    
+}
+
+.section-two{
+    display: flex;
+}
+
+.div-three{
+   margin-left: 90px;
+}
+
+.footer-content{
+    margin: 0px 10px;
+}
+
+p{
+    font-size: 10px;
+    color: hsl(221, 23%, 58%);
+    font-weight: 400;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 30px;
+    
+}
+
+
+input[type=button]{
+    background-color: hsl(22, 89%, 52%);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 10px 10px;
+
+}
+
+
+
+.filter{
+    background-color:hsl(22, 89%, 52%);
+    width: 120px;
+    height: 240px;
+    border-radius: 20px;
+    margin-right: 20px;
+
+}
+
+.filterimg{
+    opacity: 0.4;
+}
